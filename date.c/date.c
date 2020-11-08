@@ -5,7 +5,7 @@ int month,day,year,week;
 printf("enter date (mm/dd/yy):");
 scanf("%d/%d/%d",&month,&day,&year);
 printf("dated this %d",day);
- switch(day)
+  switch(day)
  {
 	case 1:case 21:case 31:
 		printf("st");break;
