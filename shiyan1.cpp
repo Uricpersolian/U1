@@ -16,7 +16,7 @@ while(a!=n)
 		scanf("%d",&a);
 	}else{
 		printf("small");
-			scanf("%d",&a);
+		
 	}
 }
 
